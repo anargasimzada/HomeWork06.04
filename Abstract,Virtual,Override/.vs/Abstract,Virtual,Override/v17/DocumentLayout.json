@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Abstract,Virtual,Override\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC53317-10CF-4FF0-B1A4-60E2FB3F1839}|Abstract,Virtual,Override\\Abstract,Virtual,Override.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\abstract,virtual,override\\abstract,virtual,override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC53317-10CF-4FF0-B1A4-60E2FB3F1839}|Abstract,Virtual,Override\\Abstract,Virtual,Override.csproj|solutionrelative:abstract,virtual,override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC53317-10CF-4FF0-B1A4-60E2FB3F1839}|Abstract,Virtual,Override\\Abstract,Virtual,Override.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\abstract,virtual,override\\abstract,virtual,override\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC53317-10CF-4FF0-B1A4-60E2FB3F1839}|Abstract,Virtual,Override\\Abstract,Virtual,Override.csproj|solutionrelative:abstract,virtual,override\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC53317-10CF-4FF0-B1A4-60E2FB3F1839}|Abstract,Virtual,Override\\Abstract,Virtual,Override.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\abstract,virtual,override\\abstract,virtual,override\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC53317-10CF-4FF0-B1A4-60E2FB3F1839}|Abstract,Virtual,Override\\Abstract,Virtual,Override.csproj|solutionrelative:abstract,virtual,override\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC53317-10CF-4FF0-B1A4-60E2FB3F1839}|Abstract,Virtual,Override\\Abstract,Virtual,Override.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\abstract,virtual,override\\abstract,virtual,override\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC53317-10CF-4FF0-B1A4-60E2FB3F1839}|Abstract,Virtual,Override\\Abstract,Virtual,Override.csproj|solutionrelative:abstract,virtual,override\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Abstract,Virtual,Override\\Abstract,Virtual,Override\\Models\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Abstract,Virtual,Override\\Models\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Abstract,Virtual,Override\\Abstract,Virtual,Override\\Models\\Bicycle.cs",
+              "RelativeToolTip": "Abstract,Virtual,Override\\Models\\Bicycle.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwAwAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:58:37.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Abstract,Virtual,Override\\Abstract,Virtual,Override\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Abstract,Virtual,Override\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Abstract,Virtual,Override\\Abstract,Virtual,Override\\Models\\Car.cs",
+              "RelativeToolTip": "Abstract,Virtual,Override\\Models\\Car.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwA0AAAC7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:58:22.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Abstract,Virtual,Override\\Abstract,Virtual,Override\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Abstract,Virtual,Override\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Abstract,Virtual,Override\\Abstract,Virtual,Override\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Abstract,Virtual,Override\\Models\\Vehicle.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAASwDAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:58:09.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Abstract,Virtual,Override\\Abstract,Virtual,Override\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract,Virtual,Override\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Abstract,Virtual,Override\\Abstract,Virtual,Override\\Program.cs",
+              "RelativeToolTip": "Abstract,Virtual,Override\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:55:43.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\homework06.04\\interfaceclasswork\\interfaceclasswork\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|solutionrelative:interfaceclasswork\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\homework06.04\\interfaceclasswork\\interfaceclasswork\\interface\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|solutionrelative:interfaceclasswork\\interface\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\homework06.04\\interfaceclasswork\\interfaceclasswork\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|solutionrelative:interfaceclasswork\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\homework06.04\\interfaceclasswork\\interfaceclasswork\\interface\\imultply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|solutionrelative:interfaceclasswork\\interface\\imultply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\homework06.04\\interfaceclasswork\\interfaceclasswork\\interface\\idifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|solutionrelative:interfaceclasswork\\interface\\idifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\homework06.04\\interfaceclasswork\\interfaceclasswork\\interface\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|solutionrelative:interfaceclasswork\\interface\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\homework06.04\\interfaceclasswork\\interfaceclasswork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E820275-88D8-468B-B6D1-4B3BC8C66304}|Interfaceclasswork\\Interfaceclasswork.csproj|solutionrelative:interfaceclasswork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Area.cs",
+              "RelativeDocumentMoniker": "Interfaceclasswork\\Area.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Area.cs",
+              "RelativeToolTip": "Interfaceclasswork\\Area.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:33:43.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMultply.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Interface\\IMultply.cs",
+              "RelativeDocumentMoniker": "Interfaceclasswork\\Interface\\IMultply.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Interface\\IMultply.cs",
+              "RelativeToolTip": "Interfaceclasswork\\Interface\\IMultply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:23:45.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDifference.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Interface\\IDifference.cs",
+              "RelativeDocumentMoniker": "Interfaceclasswork\\Interface\\IDifference.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Interface\\IDifference.cs",
+              "RelativeToolTip": "Interfaceclasswork\\Interface\\IDifference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:23:25.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Interface\\IAdd.cs",
+              "RelativeDocumentMoniker": "Interfaceclasswork\\Interface\\IAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Interface\\IAdd.cs",
+              "RelativeToolTip": "Interfaceclasswork\\Interface\\IAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:22:26.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaceclasswork\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Program.cs",
+              "RelativeToolTip": "Interfaceclasswork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:13:30.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDivide.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Interface\\IDivide.cs",
+              "RelativeDocumentMoniker": "Interfaceclasswork\\Interface\\IDivide.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Interface\\IDivide.cs",
+              "RelativeToolTip": "Interfaceclasswork\\Interface\\IDivide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:24:42.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Calculate.cs",
+              "RelativeDocumentMoniker": "Interfaceclasswork\\Calculate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\HomeWork06.04\\Interfaceclasswork\\Interfaceclasswork\\Calculate.cs",
+              "RelativeToolTip": "Interfaceclasswork\\Calculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:16:41.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

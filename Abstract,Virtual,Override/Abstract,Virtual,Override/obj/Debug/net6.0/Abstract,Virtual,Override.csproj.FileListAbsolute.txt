@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\obj\Debug\net6.0\Abstract,Virtual,Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\obj\Debug\net6.0\Abstract,Virtual,Override.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\obj\Debug\net6.0\Abstract,Virtual,Override.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\obj\Debug\net6.0\Abstract,Virtual,Override.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\bin\Debug\net6.0\Abstract,Virtual,Override.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\bin\Debug\net6.0\Abstract,Virtual,Override.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\bin\Debug\net6.0\Abstract,Virtual,Override.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\bin\Debug\net6.0\Abstract,Virtual,Override.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\bin\Debug\net6.0\Abstract,Virtual,Override.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\obj\Debug\net6.0\Abstract,Virtual,Override.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\obj\Debug\net6.0\refint\Abstract,Virtual,Override.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\obj\Debug\net6.0\Abstract,Virtual,Override.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\obj\Debug\net6.0\Abstract,Virtual,Override.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Abstract,Virtual,Override\Abstract,Virtual,Override\obj\Debug\net6.0\ref\Abstract,Virtual,Override.dll
